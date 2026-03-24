@@ -1,0 +1,16 @@
+/* style.css */
+#head {
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 20px;
+}
+
+#head:hover {
+    background-color: #2980b9;
+}
